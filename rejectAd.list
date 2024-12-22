@@ -9,7 +9,7 @@
 #!system = iOS, iPadOS
 #!system_version =
 #!loon_version = 3.2.3(762)
-#!date=2024-12-21 22:42:00
+#!date=2024-12-23 01:03:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -1063,7 +1063,7 @@ DOMAIN,adsmind.ugdtimg.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,splashqqlive.gtimg.com
-DOMAIN,vv.video.qq.com
+#DOMAIN,vv.video.qq.com
 DOMAIN,wa.gtimg.com
 # DOMAIN,wxsnsdy.wxs.qq.com
 # DOMAIN,wxsnsdythumb.wxs.qq.com
