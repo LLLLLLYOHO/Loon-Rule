@@ -9,7 +9,7 @@
 #!system = iOS, iPadOS
 #!system_version =
 #!loon_version = 3.2.3(762)
-#!date=2024-12-23 01:14:00
+#!date=2024-12-23 01:18:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -1064,8 +1064,7 @@ DOMAIN,adsmind.ugdtimg.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,splashqqlive.gtimg.com
-DOMAIN,vv.video.qq.com
-#DOMAIN,wa.gtimg.com
+#DOMAIN,vv.video.qq.com
 # DOMAIN,wxsnsdy.wxs.qq.com
 # DOMAIN,wxsnsdythumb.wxs.qq.com
 # 腾讯 无法使用的推送服务
@@ -1128,36 +1127,6 @@ DOMAIN, kadmimage.biz.weibo.com
 DOMAIN, sdkaction.biz.weibo.com
 DOMAIN, sdkclick.biz.weibo.com
 DOMAIN, sdkmonitor.biz.weibo.com
-# 微博 开屏广告
-DOMAIN, huodong.weibo.cn
-DOMAIN-SUFFIX, biz.weibo.com
-# 微博 头像挂件
-DOMAIN,new.vip.weibo.cn,REJECT
-DOMAIN,vip.storage.weibo.com,REJECT
-# > keep
-DOMAIN,apm.gotokeep.com
-DOMAIN,kad.gotokeep.com
-# > 喜马拉雅
-DOMAIN,adbehavior.ximalaya.com
-DOMAIN,adwbs.ximalaya.com
-DOMAIN-SUFFIX,ad.test.ximalaya.com
-DOMAIN-SUFFIX,adse.test.ximalaya.com
-DOMAIN-SUFFIX,adweb.test.ximalaya.com
-DOMAIN-SUFFIX,adweb.ximalaya.com
-DOMAIN-SUFFIX,linkeye.ximalaya.com
-DOMAIN-SUFFIX,location.ximalaya.com
-DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
-DOMAIN-SUFFIX,ad.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adbehavior.wsa.ximalaya.com
-DOMAIN-SUFFIX,adsebs.ximalaya.com
-DOMAIN-SUFFIX,adbs.ximalaya.com
-# >小红书
-DOMAIN,ads-img-qc.xhscdn.com
-DOMAIN,ads-video-al.xhscdn.com
-DOMAIN,ads-video-qc.xhscdn.com
-DOMAIN,t-ads.xiaohongshu.com
 # (Z)
 # > 知乎
 USER-AGENT,AVOS*
@@ -1220,21 +1189,6 @@ DOMAIN-KEYWORD,sf6-fe-tos.pglstatp-toutiao.com
 DOMAIN-KEYWORD,s3-fe-scm.pglstatp-toutiao.com
 DOMAIN-KEYWORD,sf6-be-pack.pglstatp-toutiao.com
 DOMAIN-KEYWORD,p9-be-pack-sign.pglstatp-toutiao.com
-# > 哔哩哔哩
-DOMAIN-SUFFIX,cm.bilibili.com
-DOMAIN-KEYWORD, api.sobot.com
-DOMAIN-SUFFIX,cm.ad.bilibili.com
-DOMAIN-SUFFIX,cm.adcommon.bilibili.com
-DOMAIN-SUFFIX,cm.game.bilibili.com
-DOMAIN-SUFFIX,cm.track.biligame.bilibili.com
-# > 快手
-DOMAIN-SUFFIX,e.kuaishou.com
-DOMAIN-SUFFIX,cm.downloader.commercial.kuaishou.com
-DOMAIN-SUFFIX,cm.ad.gifshow.com
-DOMAIN-SUFFIX,cm.kwad.com
-# > 抖音
-DOMAIN-KEYWORD,bds.snssdk.com
-DOMAIN-KEYWORD,p6-ad-sign.byteimg.com
 # > 其他广告
 DOMAIN-KEYWORD,extlog.snssdk.com
 DOMAIN-KEYWORD,log.snssdk.com
@@ -1362,8 +1316,8 @@ DOMAIN-SUFFIX,iycwl.com
 DOMAIN-SUFFIX,haoyundm.com
 DOMAIN-SUFFIX,qqq123987.site
 DOMAIN-SUFFIX,qweewq2021.online
-DOMAIN-SUFFIX, qqq123987.site
-DOMAIN-SUFFIX, jianxinshanghai.com
+DOMAIN-SUFFIX,qqq123987.site
+DOMAIN-SUFFIX,jianxinshanghai.com
 DOMAIN-SUFFIX, js.51toubu.com
 DOMAIN-SUFFIX, img.hylmxing.com
 DOMAIN-SUFFIX, 777.000123456789.space
