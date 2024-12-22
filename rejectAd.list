@@ -9,7 +9,7 @@
 #!system = iOS, iPadOS
 #!system_version =
 #!loon_version = 3.2.3(762)
-#!date=2024-12-23 01:08:00
+#!date=2024-12-23 01:12:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -991,6 +991,7 @@ DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,astrategy.beacon.qq.com
 DOMAIN-SUFFIX,c.gdt.qq.com
 DOMAIN-SUFFIX,c.gj.qq.com
+#此分流会导致无法播放腾讯视频
 #DOMAIN-SUFFIX,canvas.gdt.qq.com
 DOMAIN-SUFFIX,d.gdt.qq.com
 DOMAIN-SUFFIX,d3g.qq.com
@@ -1004,7 +1005,7 @@ DOMAIN-SUFFIX,jqmt.qq.com
 DOMAIN-SUFFIX,jrlt.beacon.qq.com
 DOMAIN-SUFFIX,jsqmt.qq.com
 DOMAIN-SUFFIX,lives.l.qq.com
-#DOMAIN-SUFFIX,livep.l.qq.com
+DOMAIN-SUFFIX,livep.l.qq.com
 DOMAIN-SUFFIX,mi.gdt.qq.com
 DOMAIN-SUFFIX,livep.l.ott.video.qq.com
 DOMAIN-SUFFIX,lives.l.ott.video.qq.com
@@ -1063,8 +1064,8 @@ DOMAIN,adsmind.ugdtimg.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,splashqqlive.gtimg.com
-#DOMAIN,vv.video.qq.com
-#DOMAIN,wa.gtimg.com
+DOMAIN,vv.video.qq.com
+DOMAIN,wa.gtimg.com
 # DOMAIN,wxsnsdy.wxs.qq.com
 # DOMAIN,wxsnsdythumb.wxs.qq.com
 # 腾讯 无法使用的推送服务
