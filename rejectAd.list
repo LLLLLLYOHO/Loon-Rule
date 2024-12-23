@@ -9,7 +9,7 @@
 #!system = iOS, iPadOS
 #!system_version =
 #!loon_version = 3.2.3(762)
-#!date=2024-12-23 14:33:00
+#!date=2024-12-23 22:41:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -289,12 +289,12 @@ DOMAIN-KEYWORD, c1img.ali.kugou.com
 DOMAIN-KEYWORD, kgstaticdlbssdlbig.tx.kugou.com
 DOMAIN-KEYWORD, adsfilebssdlbig.ali.kugou.com
 DOMAIN-KEYWORD, splashimgbssdl.yun.kugou.com
-DOMAIN-KEYWORD, adservice.kugou.com,REJECT
-DOMAIN-KEYWORD, kgipadstat.kugou.com,REJECT
-DOMAIN-KEYWORD, kgipadstatbak.kugou.com,REJECT
-DOMAIN-KEYWORD, logwebs.kugou.com,REJECT
-DOMAIN-KEYWORD, tracker.kugou.com,REJECT
-DOMAIN-KEYWORD, trackercdnbj.kugou.com,REJECT
+DOMAIN-KEYWORD, adservice.kugou.com
+DOMAIN-KEYWORD, kgipadstat.kugou.com
+DOMAIN-KEYWORD, kgipadstatbak.kugou.com
+DOMAIN-KEYWORD, logwebs.kugou.com
+DOMAIN-KEYWORD, tracker.kugou.com
+DOMAIN-KEYWORD, trackercdnbj.kugou.com
 DOMAIN-KEYWORD, rich.kuwo.cn
 DOMAIN-KEYWORD, mobilead.kuwo.cn
 DOMAIN, adsfile.bssdlbig.kugou.com
@@ -363,21 +363,21 @@ DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,v.gdt.qq.com
 # > 高德
-DOMAIN-SUFFIX,adiu.amap.com,REJECT
-DOMAIN,aboard.apilocate.amap.com,REJECT
-DOMAIN,apiinit.amap.com,REJECT
-DOMAIN,icloud-amap.com,REJECT
-DOMAIN-SUFFIX,dualstack-logs.amap.com,REJECT
-DOMAIN-SUFFIX,logs.amap.com,REJECT
-DOMAIN-SUFFIX,optimus-ads.amap.com,REJECT
-DOMAIN-SUFFIX,page.amap.com,REJECT
+DOMAIN-SUFFIX,adiu.amap.com
+DOMAIN,aboard.apilocate.amap.com
+DOMAIN,apiinit.amap.com
+DOMAIN,icloud-amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,page.amap.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,u51.me
-DOMAIN,amap-aos-info-nogw.amap.com,REJECT
-DOMAIN,amdc.m.taobao.com,REJECT
-DOMAIN,awaken.amap.com,REJECT
-DOMAIN,free-aos-cdn-image.amap.com,REJECT
+DOMAIN,amap-aos-info-nogw.amap.com
+DOMAIN,amdc.m.taobao.com
+DOMAIN,awaken.amap.com
+DOMAIN,free-aos-cdn-image.amap.com
 # > 美团
 DOMAIN, flowplus.meituan.net
 DOMAIN-SUFFIX, analytics.meituan.net
@@ -577,7 +577,7 @@ DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cpro2.baidu.com
 DOMAIN-SUFFIX,cpu-admin.baidu.com
 # > 百度贴吧屏蔽域名dns查询
-IP-CIDR,180.76.76.200/32,REJECT
+IP-CIDR,180.76.76.200/32
 ## /*  
 DOMAIN-SUFFIX,10086.cn.baidu.cdn.yiwk.com
 DOMAIN-SUFFIX,360baidus.com
@@ -990,14 +990,14 @@ DOMAIN, sdkmonitor.biz.weibo.com
 # (Z)
 # > 知乎
 USER-AGENT,AVOS*
-DOMAIN,appcloud.zhihu.com,REJECT
+DOMAIN,appcloud.zhihu.com
 DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,crash2.zhihu.com,REJECT
+DOMAIN,crash2.zhihu.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,sugar.zhihu.com
-IP-CIDR,118.89.204.198/32,REJECT
-IP-CIDR,103.41.167.237/32,REJECT
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+IP-CIDR,118.89.204.198/32
+IP-CIDR,103.41.167.237/32
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 # > 中关村
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
