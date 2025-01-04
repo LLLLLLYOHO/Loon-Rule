@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2024-12-23 23:21:00
+#!date=2025-01-04 19:42:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -421,7 +421,6 @@ DOMAIN-KEYWORD,editor.sm.cn
 DOMAIN-KEYWORD,fc-video.cdn.bcebos.com
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN,navigis.uc.cn
-DOMAIN,restapi.amap.com
 DOMAIN,order.sm.cn
 DOMAIN,ucdc-upaas.uc.cn
 DOMAIN,access.open.uc.cn
