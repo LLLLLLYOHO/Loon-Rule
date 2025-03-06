@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2025-03-06 12:25:00
+#!date=2025-03-06 12:27:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -1027,6 +1027,7 @@ DOMAIN-SUFFIX,wpadmngr.com
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,son-in-lawmorbid.com
 DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,amung.us
 DOMAIN-SUFFIX,widgets.amung.us
 DOMAIN-SUFFIX,s10.histats.com
@@ -6019,7 +6020,6 @@ DOMAIN-SUFFIX,mbrowser.news.haosou.com
 DOMAIN-SUFFIX,mbrowser.news.so.com
 DOMAIN-SUFFIX,mbs.weathercn.com
 DOMAIN-SUFFIX,mc.hujiang.com
-DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mcore.vcgame.cn
 DOMAIN-SUFFIX,md.1drj.com
 DOMAIN-SUFFIX,md.he9630.com
