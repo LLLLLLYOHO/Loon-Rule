@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2025-03-06 12:24:00
+#!date=2025-03-06 12:25:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -2411,7 +2411,6 @@ DOMAIN-SUFFIX,a-m-s.poco.cn
 DOMAIN-SUFFIX,amz.steamprices.com
 DOMAIN-SUFFIX,an.m.liebao.cn
 DOMAIN-SUFFIX,an.wikigifth.com
-DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,ana.tatahn.com
 DOMAIN-SUFFIX,andmejs.com
 DOMAIN-SUFFIX,android.push.126.net
