@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2025-03-16 14:31:00
+#!date=2025-03-25 01:19:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -372,7 +372,6 @@ DOMAIN-SUFFIX,dualstack-logs.amap.com,REJECT
 DOMAIN-SUFFIX,logs.amap.com,REJECT
 DOMAIN-SUFFIX,optimus-ads.amap.com,REJECT
 DOMAIN-SUFFIX,page.amap.com,REJECT
-DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,u51.me
 DOMAIN,amap-aos-info-nogw.amap.com,REJECT
