@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2025-12-05 00:37:00
+#!date=2025-12-05 00:49:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -33,16 +33,6 @@ DOMAIN-SUFFIX, new.xiongzhangad.com
 DOMAIN-SUFFIX, alexametrics.com 
 DOMAIN-KEYWORD, in-page-push
 # > 广告
-# > 屏蔽苹果系统更新
-DOMAIN, ns.itunes.apple.com
-DOMAIN, appldnld.apple.com
-DOMAIN, mesu.apple.com
-DOMAIN, xp.apple.com
-DOMAIN, gdmf.apple.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,ads.internal.unity3d.com
-DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
-DOMAIN-SUFFIX,unityads.unity3d.com
 
 # > 中国电信
 DOMAIN,ad.21cn.com
@@ -103,10 +93,6 @@ DOMAIN,sytoss-market.oss-cn-shenzhen.aliyuncs.com
 DOMAIN, apis.alenable.com
 # 建设银行
 DOMAIN-KEYWORD, adv.ccb.com
-# 京东
-DOMAIN, dns.jd.com
-IP-CIDR, 101.124.19.122/32
-IP6-CIDR, 2402:db40:5100:1011::5/128
 # 蓝奏云
 DOMAIN, statics.woozooo.com
 # 太平洋保险
@@ -119,6 +105,5 @@ DOMAIN, bailingniao2.baidu.com
 DOMAIN, ofloc.map.baidu.com
 DOMAIN, www.qchannel01.cn
 DOMAIN, api.tuisong.baidu.com
-DOMAIN, track.addevent.com
 # 读不舍手
 DOMAIN, tnc3-alisc1.zijieapi.com
