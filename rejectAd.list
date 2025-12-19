@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2025-12-05 00:49:00
+#!date=2025-12-20 00:15:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -79,16 +79,16 @@ DOMAIN-KEYWORD, static.wkanx.com
 DOMAIN-KEYWORD, config.y5en.com
 # (X)
 # > 迅雷
-DOMAIN,adsp.xunlei.com
-DOMAIN,etl.xlmc.sandai.net
+DOMAIN, adsp.xunlei.com
+DOMAIN, etl.xlmc.sandai.net
 # > 深圳通
 # > 掌上公交
-DOMAIN,quanguo.mygolbs.com
+DOMAIN, quanguo.mygolbs.com
 # > 亲邻开门+微信小程序
-DOMAIN,qadx.qinlinad.com
+DOMAIN, qadx.qinlinad.com
 # > 捷停车
-DOMAIN,e.jparking.cn
-DOMAIN,sytoss-market.oss-cn-shenzhen.aliyuncs.com
+DOMAIN, e.jparking.cn
+DOMAIN, sytoss-market.oss-cn-shenzhen.aliyuncs.com
 #> 广州地铁乘车码 多个广告
 DOMAIN, apis.alenable.com
 # 建设银行
@@ -107,3 +107,7 @@ DOMAIN, www.qchannel01.cn
 DOMAIN, api.tuisong.baidu.com
 # 读不舍手
 DOMAIN, tnc3-alisc1.zijieapi.com
+#票根(开屏摇一摇广告)@TT
+DOMAIN, api.yfanads.com, REJECT
+#随机数app内置广告@TT
+DOMAIN-KEYWORD, googleads.g.doubleclick.net, REJECT
