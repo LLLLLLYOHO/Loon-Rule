@@ -6,7 +6,7 @@
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
 #!tg-group=https://t.me/lanjieguanggao
 #!tag = TT去广告
-#!date=2025-12-20 00:15:00
+#!date=2025-12-20 17:05:00
 #!support=约XXXX行
 #!proxy-select=REJECT
 #############################################
@@ -108,6 +108,6 @@ DOMAIN, api.tuisong.baidu.com
 # 读不舍手
 DOMAIN, tnc3-alisc1.zijieapi.com
 #票根(开屏摇一摇广告)@TT
-DOMAIN, api.yfanads.com, REJECT
+DOMAIN, api.yfanads.com
 #随机数app内置广告@TT
-DOMAIN-KEYWORD, googleads.g.doubleclick.net, REJECT
+DOMAIN-KEYWORD, googleads.g.doubleclick.net
